@@ -7,7 +7,7 @@
 #print 'I "said" dont touch this'
 print "hmm"
 
-pringt "boomtown"
+print "boomtown"
 
 print "boomtown_2"
 
